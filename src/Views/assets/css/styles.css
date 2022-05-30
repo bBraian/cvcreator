@@ -1,0 +1,7 @@
+.sidebar-menu-header {
+    transition: all .2s ease-in-out;
+}
+
+.sidebar-menu-header:hover{
+    background-color: #2a3143;
+}

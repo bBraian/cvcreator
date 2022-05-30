@@ -1,0 +1,15 @@
+{
+    "name": "braian/b-course",
+    "autoload": {
+        "psr-4": {
+            "Braian\\BCourse\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bBraian",
+            "email": "braianvoficial@gmail.com"
+        }
+    ],
+    "require": {}
+}
